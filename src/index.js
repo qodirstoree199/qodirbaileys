@@ -62,7 +62,7 @@ console.log(chalk.bold.cyan(`
 ⠀⠀⠀
 ¤═―— ⎧ 𝐀𝐑𝐋𝐄𝐍𝐃 𝐍𝐄𝐖 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
 Information:
-Developer: @lendd2
+Developer: @qodirstoree
 Version: New Updatw
 Status: Baileys Berhasil Terinstall
 Update date: 16/09/26
